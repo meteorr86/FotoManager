@@ -1,5 +1,3 @@
-<p align="center"><img src="docs/icon.png" width="96" alt="FotoManager"></p>
-
 <h1 align="center">FotoManager</h1>
 
 <p align="center">本地优先的 Android 照片/视频整理工具</p>
