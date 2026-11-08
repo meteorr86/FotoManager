@@ -8,7 +8,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.6-4D6BFE">
 </p>
 
-![界面截图](docs/screenshot.jpg)
+<p align="center"><img src="docs/screenshot.jpg" width="360" alt="界面截图"></p>
 
 FotoManager 把手机相册按 **RAW / JPG** 分类，按 **月份** 归档，并按拍摄时间重命名。
 视频单独放在 `VIDEO/` 下，再分 RAW 视频和普通视频。
