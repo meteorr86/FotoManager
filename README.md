@@ -47,11 +47,9 @@ Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release
 
 系统要求：Windows 10 / 11（64 位），.NET Framework 4.8。
 
-## Android 版
+## Android 版使用
 
 Android 版当前为 1.1.6，可把手机相册按 RAW / JPG 分类、按月份归档，视频单独放到 `VIDEO/RAW` 和 `VIDEO/NORMAL`，并按拍摄时间重命名。
-
-- [Android 版说明](android/README.md)
 
 ## 说明
 
