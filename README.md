@@ -13,18 +13,6 @@ Windows 版是 C# / WinForms 独立重写版：经典桌面工具界面、菜单
 
 Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release 页面单独下载 EXE。
 
-## 截图
-
-### Windows
-
-![Windows 列表视图](windows/docs/screenshot-main.png)
-
-![Windows 格子视图](windows/docs/screenshot-grid.png)
-
-### Android
-
-![Android 界面](android/screenshot.jpg)
-
 ## Windows 版功能
 
 - 可选择任意文件夹或磁盘根目录，不限于图片目录
@@ -40,6 +28,18 @@ Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release
 - 目标已存在自动 `_2`、`_3`，绝不覆盖
 - 可清理空文件夹，不跟随符号链接，不碰隐藏/系统文件
 - 高 DPI 感知，按显示器缩放比例自动放大布局和图标
+
+## 截图
+
+### Windows
+
+![Windows 列表视图](windows/docs/screenshot-main.png)
+
+![Windows 格子视图](windows/docs/screenshot-grid.png)
+
+### Android
+
+![Android 界面](android/screenshot.jpg)
 
 ## Windows 版使用
 
