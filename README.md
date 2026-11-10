@@ -13,7 +13,7 @@ Windows 版是 C# / WinForms 独立重写版：经典桌面工具界面、菜单
 
 Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release 页面单独下载 EXE。
 
-## Windows 版功能
+## 软件功能
 
 - 可选择任意文件夹或磁盘根目录，不限于图片目录
 - 两种视图：格子（JPG 缩略图）、列表（详细信息列），工具栏按钮一键切换
@@ -29,6 +29,15 @@ Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release
 - 可清理空文件夹，不跟随符号链接，不碰隐藏/系统文件
 - 高 DPI 感知，按显示器缩放比例自动放大布局和图标
 
+## 已知限制
+
+- HEIC / HEIF、PNG、CinemaDNG 序列默认跳过
+- CR3 等部分 RAW 容器中的 EXIF 可能读取不到，此时退回文件名或修改时间
+- 视频只解析 MP4 / MOV 系列的容器元数据；`.mts` / `.m2ts` / `.mkv` / `.avi` / `.wmv` 等退回文件名或修改时间
+- 格子视图只为 JPG 生成缩略图；RAW 照片、RAW 视频、普通视频和边车文件显示类型图标
+- 撤销记录只在内存中，关闭程序后失效
+- Windows 程序未签名，首次运行可能触发 SmartScreen：点「更多信息」→「仍要运行」
+
 ## Windows 版使用
 
 1. 解压后打开 `FotoManager.exe`
@@ -42,17 +51,7 @@ Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release
 
 Android 版当前为 1.1.6，可把手机相册按 RAW / JPG 分类、按月份归档，视频单独放到 `VIDEO/RAW` 和 `VIDEO/NORMAL`，并按拍摄时间重命名。
 
-- [下载 FotoManager.apk](https://github.com/meteorr86/FotoManager/releases/download/v1.1.6/FotoManager.apk)
 - [Android 版说明](android/README.md)
-
-## 已知限制
-
-- HEIC / HEIF、PNG、CinemaDNG 序列默认跳过
-- CR3 等部分 RAW 容器中的 EXIF 可能读取不到，此时退回文件名或修改时间
-- 视频只解析 MP4 / MOV 系列的容器元数据；`.mts` / `.m2ts` / `.mkv` / `.avi` / `.wmv` 等退回文件名或修改时间
-- 格子视图只为 JPG 生成缩略图；RAW 照片、RAW 视频、普通视频和边车文件显示类型图标
-- 撤销记录只在内存中，关闭程序后失效
-- Windows 程序未签名，首次运行可能触发 SmartScreen：点「更多信息」→「仍要运行」
 
 ## 说明
 
