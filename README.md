@@ -29,18 +29,6 @@ Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release
 - 可清理空文件夹，不跟随符号链接，不碰隐藏/系统文件
 - 高 DPI 感知，按显示器缩放比例自动放大布局和图标
 
-## 截图
-
-### Windows
-
-![Windows 列表视图](windows/docs/screenshot-main.png)
-
-![Windows 格子视图](windows/docs/screenshot-grid.png)
-
-### Android
-
-![Android 界面](android/screenshot.jpg)
-
 ## Windows 版使用
 
 1. 解压后打开 `FotoManager.exe`
@@ -72,3 +60,15 @@ Android 版当前为 1.1.6，可把手机相册按 RAW / JPG 分类、按月份�
 - 不覆盖已有文件；目标重名时自动追加 `_2`、`_3`
 - Windows 设置可通过环境变量 `FOTOMANAGER_HOME` 重定向，便于便携使用
 - Windows 版与 Android 版说明分别在 `windows/README.md` 和 `android/README.md`
+
+## 截图
+
+### Windows
+
+![Windows 列表视图](windows/docs/screenshot-main.png)
+
+![Windows 格子视图](windows/docs/screenshot-grid.png)
+
+### Android
+
+![Android 界面](android/screenshot.jpg)
