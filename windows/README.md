@@ -9,9 +9,7 @@
 
 [Release 页面](https://github.com/meteorr86/FotoManager/releases/tag/v1.2.4)
 
-![列表视图](docs/screenshot-main.png)
 
-![格子视图](docs/screenshot-grid.png)
 
 ## 系统要求
 
@@ -55,3 +53,9 @@
 - 程序不联网，不写撤销日志
 - 设置可通过环境变量 `FOTOMANAGER_HOME` 重定向，便于便携使用
 - 程序未签名，首次运行可能触发 Windows SmartScreen：点「更多信息」→「仍要运行」
+
+## 截图
+
+![列表视图](docs/screenshot-main.png)
+
+![格子视图](docs/screenshot-grid.png)
