@@ -9,7 +9,6 @@
 - [FotoManager.apk](https://github.com/meteorr86/FotoManager/releases/download/v1.1.6/FotoManager.apk)
 - [Release 页面](https://github.com/meteorr86/FotoManager/releases/tag/v1.1.6)
 
-![界面截图](screenshot.jpg)
 
 ## 功能
 
@@ -83,3 +82,7 @@ DCIM/
 ## 说明
 
 这是个人工具，使用自签名证书，安装时需要允许未知来源。
+
+## 截图
+
+![界面截图](screenshot.jpg)
