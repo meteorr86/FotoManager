@@ -1,4 +1,4 @@
-# FotoManager
+﻿# FotoManager
 
 本地优先的照片 / 视频整理工具，提供 Windows 桌面版和 Android 版。
 
@@ -8,7 +8,7 @@ Windows 版是 C# / WinForms 独立重写版：经典桌面工具界面、菜单
 
 | 平台 | 版本 | 下载 |
 | --- | --- | --- |
-| Windows | 1.2.4 | [FotoManager-1.2.4-win.zip](https://github.com/meteorr86/FotoManager/releases/tag/v1.2.4) |
+| Windows | 1.2.5 | [FotoManager-1.2.5-win.zip](https://github.com/meteorr86/FotoManager/releases/tag/v1.2.5) |
 | Android | 1.1.6 | [FotoManager.apk](https://github.com/meteorr86/FotoManager/releases/tag/v1.1.6) |
 
 Windows 压缩包内含 `FotoManager.exe` 和使用说明；也可以从 Release 页面单独下载 EXE。
@@ -69,3 +69,4 @@ Android 版当前为 1.1.6，可把手机相册按 RAW / JPG 分类、按月份�
 ### Android
 
 ![Android 界面](android/screenshot.jpg)
+
