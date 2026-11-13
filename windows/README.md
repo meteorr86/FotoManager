@@ -4,10 +4,10 @@
 
 ## 下载
 
-- [FotoManager-1.2.4-win.zip](https://github.com/meteorr86/FotoManager/releases/download/v1.2.4/FotoManager-1.2.4-win.zip) — 推荐，包含 EXE 和使用说明
-- [FotoManager.exe](https://github.com/meteorr86/FotoManager/releases/download/v1.2.4/FotoManager.exe) — 单文件版
+- [FotoManager-1.2.5-win.zip](https://github.com/meteorr86/FotoManager/releases/download/v1.2.5/FotoManager-1.2.5-win.zip) — 推荐，包含 EXE 和使用说明
+- [FotoManager.exe](https://github.com/meteorr86/FotoManager/releases/download/v1.2.5/FotoManager.exe) — 单文件版
 
-[Release 页面](https://github.com/meteorr86/FotoManager/releases/tag/v1.2.4)
+[Release 页面](https://github.com/meteorr86/FotoManager/releases/tag/v1.2.5)
 
 
 
